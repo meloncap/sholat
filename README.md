@@ -4,7 +4,7 @@
 ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-Aplikasi bisa menampilkan jadwal sholat sesuai daerah dan tanggal yang dipilih. Website ini dibuat menggunakan Svelte JS, Windi CSS, dan Vercel. Api yang saya gunakan berasal dari website [API MyQuran](https://api.myquran.com/).
+Aplikasi bisa menampilkan jadwal sholat sesuai daerah dan tanggal yang dipilih. Website ini dibuat menggunakan Svelte JS, Windi CSS, dan Vercel. API yang saya gunakan berasal dari website [API MyQuran](https://api.myquran.com/).
 
 [Link menuju demo page.](https://jadwal-sholat-mdn.vercel.app/)
 
