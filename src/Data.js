@@ -1,6 +1,6 @@
 import { writable } from "svelte/store";
 
-export const DataKota = writable({ id: "1433", lokasi: "KOTA SEMARANG" });
+export const DataKota = writable({ id: "1003", lokasi: "LAMPUNG SELATAN" });
 
 let day = new Date();
 let dateNow;
